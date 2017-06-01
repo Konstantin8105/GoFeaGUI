@@ -39,14 +39,14 @@ North. Toolbar. View options:
 - Zoom by window
 - Hand
 
-North toolbar. Create elements:
+North toolbal. Cursor option:
+- Simple cursor
+- Smart cursor
+
+North toolbar. Create elements only for Preproccessor tab:
 - New point
 - New beam
 - New plate
 - Mirror elements
 - Copy array
 - Copy by circle
-
-North toolbal. Cursor option:
-- Simple cursor
-- Smart cursor

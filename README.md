@@ -1,6 +1,8 @@
 # GoFeaGUI
 Graphical user interface for GoFea
 
+First window is splash windows
+
 ```
 Main window:
 +----------------------------------------+
@@ -21,7 +23,7 @@ Main window:
 Description:
 - [Splash]{https://github.com/Konstantin8105/GoFeaGUI/blob/master/Splash.md}
 - [North]{https://github.com/Konstantin8105/GoFeaGUI/blob/master/North.md}
-- [Canter]{https://github.com/Konstantin8105/GoFeaGUI/blob/master/Center.md}
+- [Center]{https://github.com/Konstantin8105/GoFeaGUI/blob/master/Center.md}
 - [West]{https://github.com/Konstantin8105/GoFeaGUI/blob/master/West.md}
 - [East]{https://github.com/Konstantin8105/GoFeaGUI/blob/master/East.md}
 - [South]{https://github.com/Konstantin8105/GoFeaGUI/blob/master/South.md}
@@ -30,8 +32,6 @@ Description:
 > - tree view on West is flexibility and allowable collapse to border
 
 Code modification windows
-
-MENU OPTIONS
 
 Future:
 - mini git hystory of project
