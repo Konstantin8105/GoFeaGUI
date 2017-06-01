@@ -44,6 +44,3 @@ Cursor property on 3D view:
 - Left button click/window + Shift - select in windows
 - Left button click + Alt - Smart selection
 Assembly tree view
-
-
-
