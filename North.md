@@ -6,7 +6,16 @@ North tabs (/ underline for - Center):
 - Processor / Text
 - Postprocessor / 3D model
 
-North. Toobar. View options:
+North toolbar. Create elements only for Preproccessor tab:
+- New point
+- New beam
+- New plate
+- Mirror elements
+- Copy array
+- Copy by circle
+- Intersect between lines
+
+North. Toobar. Only for Pre- and Post- processor. View options:
 - 2D
 - 3D view:
 	- XOY
@@ -32,21 +41,13 @@ North. Toobar. View options:
 	- YOZ
 	- YOZ back side
 
-North. Toolbar. View options:
+North. Toolbar. Only for Pre- and Post- processor. View options:
 - Zoom "+"
 - Zoom "-"
 - Zoom all
 - Zoom by window
 - Hand
 
-North toolbal. Cursor option:
+North toolbar. Cursor option:
 - Simple cursor
 - Smart cursor
-
-North toolbar. Create elements only for Preproccessor tab:
-- New point
-- New beam
-- New plate
-- Mirror elements
-- Copy array
-- Copy by circle

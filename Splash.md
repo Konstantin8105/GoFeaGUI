@@ -1,4 +1,6 @@
-# Splash windows
+# Welcome (splash) windows
+
+Welcome windows - first windows of application
 
 Options:
 - Open lasts projects
