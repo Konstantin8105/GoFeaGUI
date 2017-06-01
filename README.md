@@ -19,31 +19,15 @@ Main window:
 ```
 
 Description:
-- North  - menu, toolbar, tabs
-- West   - tree view for model of inlet models, tabs
-- Center - 3D view of model
-- East   - tables, property
-- South  - status bar, 1-line with short information
+- [Splash]{https://github.com/Konstantin8105/GoFeaGUI/blob/master/Splash.md}
+- [North]{https://github.com/Konstantin8105/GoFeaGUI/blob/master/North.md}
+- [Canter]{https://github.com/Konstantin8105/GoFeaGUI/blob/master/Center.md}
+- [West]{https://github.com/Konstantin8105/GoFeaGUI/blob/master/West.md}
+- [East]{https://github.com/Konstantin8105/GoFeaGUI/blob/master/East.md}
+- [South]{https://github.com/Konstantin8105/GoFeaGUI/blob/master/South.md}
 > Note: 
 > - flexibility border between center and west, center and east
 > - tree view on West is flexibility and allowable collapse to border
-
-South. Label indocators:
-- amount selected points
-- amount points
-- amount selected beams
-- amount beams
-- amount selected plates
-- amount plates
-
-South popup window:
-- recommendations, warnings, errors - Text with separation by line
-
-First splash window:
-- Open lasts projects
-- New project
-- Generate project
-- Performance test
 
 Code modification windows
 
