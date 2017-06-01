@@ -21,12 +21,12 @@ Main window:
 ```
 
 Description:
-- [Splash] {https://github.com/Konstantin8105/GoFeaGUI/blob/master/Splash.md}
-- [North]  {https://github.com/Konstantin8105/GoFeaGUI/blob/master/North.md}
-- [Center] {https://github.com/Konstantin8105/GoFeaGUI/blob/master/Center.md}
-- [West]   {https://github.com/Konstantin8105/GoFeaGUI/blob/master/West.md}
-- [East]   {https://github.com/Konstantin8105/GoFeaGUI/blob/master/East.md}
-- [South]  {https://github.com/Konstantin8105/GoFeaGUI/blob/master/South.md}
+- [Splash](https://github.com/Konstantin8105/GoFeaGUI/blob/master/Splash.md )
+- [North](https://github.com/Konstantin8105/GoFeaGUI/blob/master/North.md )
+- [Center](https://github.com/Konstantin8105/GoFeaGUI/blob/master/Center.md )
+- [West](https://github.com/Konstantin8105/GoFeaGUI/blob/master/West.md )
+- [East](https://github.com/Konstantin8105/GoFeaGUI/blob/master/East.md )
+- [South](https://github.com/Konstantin8105/GoFeaGUI/blob/master/South.md )
 > Note: 
 > - flexibility border between center and west, center and east
 > - tree view on West is flexibility and allowable collapse to border
