@@ -51,5 +51,19 @@ MVC (model-controller-view):
 * **Controller** - js
 * **View** - js
 
-Connect between ja and golang server - WebSocket, json
+Connect between js and golang server - WebSocket, json
+
++--------------------+
+| Frontend:          |
+| javascript         |
+| threejs            |
+| qooxdoo            |
++--------------------+
+      |   /\
+	  |    | json
+	  V    |
++--------------------+
+| Backend            |
+| golang             |
++--------------------+
 
