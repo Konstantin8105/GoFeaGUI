@@ -43,4 +43,13 @@ Cursor property on 3D view:
 - Left button click/window + Ctrl - add to selection
 - Left button click/window + Shift - select in windows
 - Left button click + Alt - Smart selection
-Assembly tree view
+- Assembly tree view
+
+
+MVC (model-controller-view):
+* **Model** - golang server
+* **Controller** - js
+* **View** - js
+
+Connect between ja and golang server - WebSocket, json
+
