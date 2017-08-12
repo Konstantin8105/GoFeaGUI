@@ -53,6 +53,7 @@ MVC (model-controller-view):
 
 Connect between js and golang server - WebSocket, json
 
+```
 +--------------------+
 | Frontend:          |
 | javascript         |
@@ -66,4 +67,4 @@ Connect between js and golang server - WebSocket, json
 | Backend            |
 | golang             |
 +--------------------+
-
+```
