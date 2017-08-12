@@ -61,8 +61,8 @@ Connect between js and golang server - WebSocket, json
 | qooxdoo            |
 +--------------------+
       |   /\
-	  |    | json
-	  V    |
+      |    | json
+      V    |
 +--------------------+
 | Backend            |
 | golang             |
